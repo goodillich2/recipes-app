@@ -1,0 +1,62 @@
+.container {
+    padding: 40px;
+}
+
+.button {
+    margin-top: 4px;
+    margin-left: 6px;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 17px;
+    border-radius: 4px;
+    border-color: transparent;
+    color: aliceblue;
+    background-color: rgb(18, 161, 161, 0.3);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.button:hover,
+.addBtn:hover {
+    background-color: rgba(114, 215, 215, 0.3);
+    ;
+}
+
+.mainTitle {
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgb(18, 161, 161, 0.3);
+    font-size: 43px;
+    text-align: center;
+}
+
+.title {
+    color: aliceblue;
+    font-size: 31px;
+}
+
+.item {
+    color: aliceblue;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 45px;
+}
+
+.label {
+    color: rgb(169, 171, 173);
+    margin-right: 15px;
+}
+
+.addBtn {
+    cursor: pointer;
+    font-size: 16px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 4px;
+    border-color: transparent;
+    color: aliceblue;
+    background-color: rgb(18, 161, 161, 0.3);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}

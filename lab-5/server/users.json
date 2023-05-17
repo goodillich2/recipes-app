@@ -1,0 +1,14 @@
+[
+    {
+        "id": "741c345f-974b-470d-96b3-482f9ce714cb",
+        "name": "panda",
+        "email": "rrrr@gmail.com",
+        "password": "$2b$10$fA/7bZBZ9zVHGl538vSJleIvy2P1ntC5fAI3AsaJeLzeSoYM4f32e"
+    },
+    {
+        "id": "3acedbaf-bbaa-46c8-a4a8-2ad51979d307",
+        "name": "Kate",
+        "email": "Kate@gmail.com",
+        "password": "$2b$10$eFlxKkO2LJ1MmKLB2aGaSu5ZBGhhjAunVGqGDRdcTUk8lvn6WNMX."
+    }
+]
